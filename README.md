@@ -6,7 +6,7 @@ Türkçe Klavyeler ile çalışmak için Digispark Klavye Projenize dahil edebil
 # İnstallation/Yükleme
 Ardinio idemize girip tercihlere tıklıyoruz
 </br>
-<img src="https://hizliresim.com/QWBrUV"> 
+<img src="https://i.hizliresim.com/QWBrUV.png"> 
 </br>
 Sonra işaretlediğim yere tıklıyoruz
 </br>
