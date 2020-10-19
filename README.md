@@ -6,11 +6,11 @@ Türkçe Klavyeler ile çalışmak için Digispark Klavye Projenize dahil edebil
 # İnstallation/Yükleme
 Ardinio idemize girip tercihlere tıklıyoruz
 </br>
-![123](https://bksec.xyz/github/tercih.png") 
+<img src="https://bksec.xyz/github/tercih.png"> 
 </br>
 Sonra işaretlediğim yere tıklıyoruz
 </br>
-!("https://bksec.xyz/github/mavi.png")
+<img src="https://bksec.xyz/github/mavi.png">
 </br>
 \packages\digistump\hardware\avr\1.6.7\libraries\DigisparkKeyboard \ 
 </br>
@@ -18,10 +18,10 @@ Sonra sırasıyla bu dizine geliyoruz.
 </br>
 Daha sonra bu doyaları dizine kopyalıyoruz
 </br>
-!("https://bksec.xyz/github/dosya.png")
+<img src="https://bksec.xyz/github/dosya.png">
 </br>
 Hedefteki doyaları değişti diyip kapatıyoruz
 </br>
-!(https://bksec.xyz/github/kopya.png)
+<img src="https://bksec.xyz/github/kopya.png">
 </br>
 Şimdi rahatlıkla kullanabiliriz
