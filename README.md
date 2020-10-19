@@ -10,7 +10,7 @@ Ardinio idemize girip tercihlere tıklıyoruz
 </br>
 Sonra işaretlediğim yere tıklıyoruz
 </br>
-<img src="https://bksec.xyz/github/mavi.png">
+<img src="https://i.hizliresim.com/DU4kT4.png">
 </br>
 \packages\digistump\hardware\avr\1.6.7\libraries\DigisparkKeyboard \ 
 </br>
@@ -18,10 +18,10 @@ Sonra sırasıyla bu dizine geliyoruz.
 </br>
 Daha sonra bu doyaları dizine kopyalıyoruz
 </br>
-<img src="https://bksec.xyz/github/dosya.png">
+<img src="https://i.hizliresim.com/xjD2J8.png">
 </br>
 Hedefteki doyaları değişti diyip kapatıyoruz
 </br>
-<img src="https://bksec.xyz/github/kopya.png">
+<img src="https://i.hizliresim.com/sSn6ic.png">
 </br>
 Şimdi rahatlıkla kullanabiliriz
