@@ -6,7 +6,7 @@ Türkçe Klavyeler ile çalışmak için Digispark Klavye Projenize dahil edebil
 # İnstallation/Yükleme
 Ardinio idemize girip tercihlere tıklıyoruz
 </br>
-!(https://bksec.xyz/github/tercih.png") 
+![123](https://bksec.xyz/github/tercih.png") 
 </br>
 Sonra işaretlediğim yere tıklıyoruz
 </br>
