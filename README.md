@@ -10,7 +10,7 @@ Ardinio idemize girip tercihlere tıklıyoruz
 </br>
 Sonra işaretlediğim yere tıklıyoruz
 </br>
-<img src="https://bksec.xyz/github/mavi.png">
+<img src="https://i4.hurimg.com/i/hurriyet/75/1200x675/5f2ebbaf0f25441490314a5f.jpg">
 </br>
 \packages\digistump\hardware\avr\1.6.7\libraries\DigisparkKeyboard \ 
 </br>
